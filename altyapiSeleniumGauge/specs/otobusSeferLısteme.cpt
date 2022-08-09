@@ -1,0 +1,12 @@
+Created by testinium on 9.08.2022
+
+This is a concept file with following syntax for each concept.
+# <kalkısN> - <varısN> otosbüs seferlerini listeme
+* "lightingTextClose" elementine tıkla
+* "kalkısNoktası" elementine tıkla
+* "kalkısNoktası" elementine <kalkısN> değerini yaz
+* "kalkısSehirSecimi" elementine tıkla
+* "varısNoktası" elementine tıkla
+* "varısNoktası" elementine <varısN> değerini yaz
+* "varısSehirSecimi" elementine tıkla
+* "searchBtn" elementine tıkla

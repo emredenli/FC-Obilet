@@ -1,0 +1,13 @@
+Created by testinium on 9.08.2022
+
+This is a concept file with following syntax for each concept.
+# <username> username ve <password> password ile üye ol
+* "lightingTextClose" elementine tıkla
+* "üyeGirişiBtn" elementine tıkla
+* "email" elementine tıkla
+* "email" elementine <username> değerini yaz
+* "password" elementine tıkla
+* "password" elementine <password> değerini yaz
+* "üyeOlBtn" elementine tıkla
+
+

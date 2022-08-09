@@ -1,0 +1,13 @@
+Specification Heading
+=====================
+Created by testinium on 1.08.2021
+
+This is an executable specification file which follows markdown syntax.
+Every heading in this file denotes a scenario. Every bulleted point denotes a step.
+     
+Scenario Heading
+----------------
+
+//* "deneme@gmail.com" username ve "1q2w3e" password ile üye ol
+//* "Manisa" - "İstanbul Avrupa" otosbüs seferlerini listeme
+* "Yalova" - "Yenikapı" feribot seferlerini listeme

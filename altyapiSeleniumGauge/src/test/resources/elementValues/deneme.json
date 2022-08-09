@@ -1,0 +1,122 @@
+[
+  {
+    "key": "lightingTextClose",
+    "value": "a[href='#']",
+    "type": "css"
+  },
+  {
+    "key": "üyeGirişiBtn",
+    "value": "li.login",
+    "type": "css"
+  },
+  {
+    "key": "email",
+    "value": "input[placeholder='E-posta Adresi']",
+    "type": "css"
+  },
+  {
+    "key": "password",
+    "value": "input[name='password']",
+    "type": "css"
+  },
+  {
+    "key": "üyeOlBtn",
+    "value": ".sign-up.login-to-register",
+    "type": "css"
+  },
+  {
+    "key": "kalkısNoktası",
+    "value": "origin-input",
+    "type": "id"
+  },
+  {
+    "key": "varısNoktası",
+    "value": "destination-input",
+    "type": "id"
+  },
+  {
+    "key": "searchBtn",
+    "value": "button#search-button",
+    "type": "css"
+  },
+  {
+    "key": "kalkısSehirSecimi",
+    "value": ".results>ul>li",
+    "type": "css"
+  },
+  {
+    "key": "varısSehirSecimi",
+    "value": "#destination>.results>ul>li",
+    "type": "css"
+  },
+  {
+    "key": "feribotBtn",
+    "value": ".sea>a",
+    "type": "css"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  }
+]
