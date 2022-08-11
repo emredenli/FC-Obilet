@@ -1,0 +1,70 @@
+Created by testinium on 11.08.2022
+
+This is a concept file with following syntax for each concept.
+# <kalkısN> - <varısN> feribot bilet satın alma
+* "lightingTextClose" elementine tıkla
+* "feribotBtn" elementinin görünür olması kontrol edilir "10"
+* "feribotBtn" elementine tıkla
+* "kalkısNoktası" elementinin görünür olması kontrol edilir "10"
+* "kalkısNoktası" elementine tıkla
+* "kalkısNoktası" elementine <kalkısN> değerini yaz
+* "kalkısSehirSecimi" elementinin görünür olması kontrol edilir "10"
+* "kalkısSehirSecimi" elementine tıkla
+* "varısNoktası" elementinin görünür olması kontrol edilir "10"
+* "varısNoktası" elementine tıkla
+* "varısNoktası" elementine <varısN> değerini yaz
+* "varısSehirSecimi" elementinin görünür olması kontrol edilir "10"
+* "varısSehirSecimi" elementine tıkla
+* "1" saniye bekle
+* "feribotSearchBtn" elementinin tıklanabilir olması kontrol edilir "10"
+* "2" saniye bekle
+* "feribotSearchBtn" elementine tıkla
+* "2" saniye bekle
+* "seferKontrol" elementinin görünür olması kontrol edilir "30"
+* "seferKontrol" elementine tıkla
+* "2" saniye bekle
+* "feribotSınıfSecimi" elementinin görünür olması kontrol edilir "10"
+* "feribotSınıfSecimi" elementine tıkla
+// Feribot random koltuk secimi
+* "2" saniye bekle
+* ".available.active.ins-init-condition-tracking" (css) randomClick
+* "onaylaVeDevamEtBtn" elementinin görünür olması kontrol edilir "10"
+* "onaylaVeDevamEtBtn" elementine tıkla
+* "emailSatınAlma" elementinin görünür olması kontrol edilir "10"
+* "emailSatınAlma" elementine tıkla
+* "emailSatınAlma" elementine "deneme@gmail.com" değerini yaz
+* "phoneSatınAlma" elementinin görünür olması kontrol edilir "10"
+* "phoneSatınAlma" elementine tıkla
+* "phoneSatınAlma" elementine "5435655445" değerini yaz
+* "adSoyadSatınAlma" elementinin görünür olması kontrol edilir "10"
+* "adSoyadSatınAlma" elementine tıkla
+* "adSoyadSatınAlma" elementine "Testinium Deneme" değerini yaz
+* "tcSatınAlma" elementinin görünür olması kontrol edilir "10"
+* "tcSatınAlma" elementine tıkla
+* "tcSatınAlma" elementine "25252525234" değerini yaz
+* "dogumTarihiGun" elementinin görünür olması kontrol edilir "10"
+* "dogumTarihiGun" elementine tıkla
+* "dogumTarihiGun" elementine "8" değerini yaz
+* "dogumTarihiAy" elementinin görünür olması kontrol edilir "10"
+* "dogumTarihiAy" elementine tıkla
+* "dogumTarihiAy" elementine "11" değerini yaz
+* "dogumTarihiYıl" elementinin görünür olması kontrol edilir "10"
+* "dogumTarihiYıl" elementine tıkla
+* "dogumTarihiYıl" elementine "1998" değerini yaz
+* "kartNumarası" elementinin görünür olması kontrol edilir "10"
+* "kartNumarası" elementine tıkla
+* "kartNumarası" elementine "1234" değerini yaz
+* "kartNumarası" elementine "1234" değerini yaz
+* "kartNumarası" elementine "1234" değerini yaz
+* "kartNumarası" elementine "1234" değerini yaz
+* "sonKullanmaTarihi" elementinin görünür olması kontrol edilir "10"
+* "sonKullanmaTarihi" elementine tıkla
+* "sonKullanmaTarihi" elementine "12" değerini yaz
+* "sonKullanmaTarihi" elementine "1212" değerini yaz
+* "cvc" elementinin görünür olması kontrol edilir "10"
+* "cvc" elementine tıkla
+* "cvc" elementine "123" değerini yaz
+* "satınAlBtn" elementinin görünür olması kontrol edilir "10"
+* "satınAlBtn" scroll element
+* "satınAlBtn" elementine tıkla
+* "5" saniye bekle

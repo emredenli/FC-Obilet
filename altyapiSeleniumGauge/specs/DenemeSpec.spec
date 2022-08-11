@@ -10,10 +10,10 @@ Scenario Heading
 
 //* "deneme@gmail.com" username ve "1q2w3e" password ile üye ol
 //* "Manisa" - "İstanbul Avrupa" otosbüs seferlerini listeme
-//* "Yalova" - "Yenikapı" feribot seferlerini listeme
 //* "Manisa" - "İstanbul Avrupa" otosbüs bos koltuk secme
 //* "Manisa" - "İstanbul Avrupa" otosbüs bileti satın alma
-
+//* "Yalova" - "Yenikapı" feribot seferlerini listeme
+//* "Yalova" - "Yenikapı" feribot bilet satın alma
 //* Login İşlemi
 //* Uçak sefer arama
 //* THY Bilet Al
