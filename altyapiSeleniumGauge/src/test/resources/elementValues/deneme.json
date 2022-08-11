@@ -36,7 +36,7 @@
   },
   {
     "key": "searchBtn",
-    "value": "button#search-button",
+    "value": "span.circle",
     "type": "css"
   },
   {
@@ -55,39 +55,89 @@
     "type": "css"
   },
   {
-    "key": "",
-    "value": "",
-    "type": ""
+    "key": "otobüsBosKoltuk",
+    "value": ".available.active.not-single-seat.ins-init-condition-tracking",
+    "type": "css"
   },
   {
-    "key": "",
-    "value": "",
-    "type": ""
+    "key": "otobüsSecimi",
+    "value": "#list>.item.journey",
+    "type": "css"
   },
   {
-    "key": "",
-    "value": "",
-    "type": ""
+    "key": "maleBtn",
+    "value": "button[class='male ']",
+    "type": "css"
   },
   {
-    "key": "",
-    "value": "",
-    "type": ""
+    "key": "feribotSearchBtn",
+    "value": "span.circle",
+    "type": "css"
   },
   {
-    "key": "",
-    "value": "",
-    "type": ""
+    "key": "onaylaVeDevamEtBtn",
+    "value": "span.ready",
+    "type": "css"
   },
   {
-    "key": "",
-    "value": "",
-    "type": ""
+    "key": "emailSatınAlma",
+    "value": "email",
+    "type": "id"
   },
   {
-    "key": "",
-    "value": "",
-    "type": ""
+    "key": "phoneSatınAlma",
+    "value": "phone",
+    "type": "id"
+  },
+  {
+    "key": "adSoyadSatınAlma",
+    "value": "input[placeholder='Doldurulması zorunludur.']",
+    "type": "css"
+  },
+  {
+    "key": "tcSatınAlma",
+    "value": "input[placeholder='Karayolu Taşıma Yönetmeliğince gereklidir.']",
+    "type": "css"
+  },
+  {
+    "key": "kartNumarası",
+    "value": "card-number",
+    "type": "id"
+  },
+  {
+    "key": "sonKullanmaTarihi",
+    "value": "input#card-expiration",
+    "type": "css"
+  },
+  {
+    "key": "cvc",
+    "value": "input#card-csc",
+    "type": "css"
+  },
+  {
+    "key": "satınAlBtn",
+    "value": "div#amount",
+    "type": "css"
+  },
+  {
+    "key": "feribotSeferListesi",
+    "value": "outbound-journeys",
+    "type": "id"
+  },
+  {
+    "key": "otobus",
+    "value": "#list>li",
+    "type": "css"
+  },
+  {
+    "key": "seferKontrol",
+    "value": "div.action.col",
+    "type": "css"
+  },
+  {
+    "key": "feribotSınıfSecimi",
+    "value": "div.top-green-arrow-container",
+    "type": "css"
   },
   {
     "key": "",

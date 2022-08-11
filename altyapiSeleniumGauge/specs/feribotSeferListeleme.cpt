@@ -3,11 +3,23 @@ Created by testinium on 9.08.2022
 This is a concept file with following syntax for each concept.
 # <kalkısN> - <varısN> feribot seferlerini listeme
 * "lightingTextClose" elementine tıkla
+* "feribotBtn" elementinin görünür olması kontrol edilir "10"
 * "feribotBtn" elementine tıkla
+* "kalkısNoktası" elementinin görünür olması kontrol edilir "10"
 * "kalkısNoktası" elementine tıkla
 * "kalkısNoktası" elementine <kalkısN> değerini yaz
+* "kalkısSehirSecimi" elementinin görünür olması kontrol edilir "10"
 * "kalkısSehirSecimi" elementine tıkla
+* "varısNoktası" elementinin görünür olması kontrol edilir "10"
 * "varısNoktası" elementine tıkla
 * "varısNoktası" elementine <varısN> değerini yaz
+* "varısSehirSecimi" elementinin görünür olması kontrol edilir "10"
 * "varısSehirSecimi" elementine tıkla
-* "searchBtn" elementine tıkla
+* "1" saniye bekle
+* "feribotSearchBtn" elementinin tıklanabilir olması kontrol edilir "10"
+* "1" saniye bekle
+* "feribotSearchBtn" elementine tıkla
+* "1" saniye bekle
+* "seferKontrol" elementinin görünür olması kontrol edilir "30"
+* "seferKontrol" elementine tıkla
+* "5" saniye bekle

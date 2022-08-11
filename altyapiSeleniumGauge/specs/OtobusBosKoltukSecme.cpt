@@ -1,7 +1,7 @@
-Created by testinium on 9.08.2022
+Created by testinium on 10.08.2022
 
 This is a concept file with following syntax for each concept.
-# <kalkısN> - <varısN> otosbüs seferlerini listeme
+# <kalkısN> - <varısN> otosbüs bos koltuk secme
 * "lightingTextClose" elementine tıkla
 * "kalkısNoktası" elementinin görünür olması kontrol edilir "10"
 * "kalkısNoktası" elementine tıkla
@@ -15,3 +15,11 @@ This is a concept file with following syntax for each concept.
 * "varısSehirSecimi" elementine tıkla
 * "searchBtn" elementinin tıklanabilir olması kontrol edilir "10"
 * "searchBtn" elementine tıkla
+* "otobus" elementinin tıklanabilir olması kontrol edilir "10"
+* "otobus" elementine tıkla
+* "otobüsBosKoltuk" elementinin tıklanabilir olması kontrol edilir "10"
+* "otobüsBosKoltuk" elementine tıkla
+* "maleBtn" elementinin görünür olması kontrol edilir "10"
+* "maleBtn" elementine tıkla
+* "3" saniye bekle
+

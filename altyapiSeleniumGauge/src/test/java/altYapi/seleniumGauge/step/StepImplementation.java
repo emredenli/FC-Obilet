@@ -14,8 +14,12 @@ import org.openqa.selenium.support.Color;
 import org.slf4j.LoggerFactory;
 import org.slf4j.impl.Log4jLoggerAdapter;
 import java.util.List;
+import java.util.Random;
 import java.util.ResourceBundle;
+import java.util.concurrent.TimeUnit;
 import java.util.regex.Pattern;
+
+import static altYapi.seleniumGauge.driver.Driver.driver;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class StepImplementation {
@@ -454,7 +458,7 @@ public class StepImplementation {
     @Step("Get performance logs <logContainText>")
     public void getPerformanceLogs(String logContainText){
 
-        LogEntries les = Driver.driver.manage().logs().get(LogType.PERFORMANCE);
+        LogEntries les = driver.manage().logs().get(LogType.PERFORMANCE);
         for (LogEntry le : les) {
             //if(le.getMessage().contains("\"method\":\"Network.responseReceived\"")) {
             if(le.getMessage().contains(logContainText)){
@@ -538,6 +542,38 @@ public class StepImplementation {
 
         value = value.endsWith("KeyValue") ? Driver.TestMap.get(value).toString() : value;
         Driver.TestMap.put(mapKey, value);
+    }
+
+    @Step("<locator> (css) randomClick")
+    public void randomCss(String locator) {
+        Random random = new Random();
+        List<WebElement> items = driver.findElements(By.cssSelector(locator));
+        int itm = items.size();
+        int itmCount = random.nextInt(itm);
+        items.get(itmCount).click();
+    }
+
+    @Step("<locator> (id) randomClick")
+    public void randomId(String locator) {
+        Random random = new Random();
+        List<WebElement> items = driver.findElements(By.id(locator));
+        int itm = items.size();
+        int itmCount = random.nextInt(itm);
+        items.get(itmCount).click();
+    }
+
+    @Step("<locator> (xpath) randomClick")
+    public void randomXpath(String locator) {
+        Random random = new Random();
+        List<WebElement> items = driver.findElements(By.xpath(locator));
+        int itm = items.size();
+        int itmCount = random.nextInt(itm);
+        items.get(itmCount).click();
+    }
+
+    @Step("dinamik bekle")
+    public void dynamicWait(){
+        driver.manage().timeouts().implicitlyWait(15, TimeUnit.MINUTES);
     }
 
 }
