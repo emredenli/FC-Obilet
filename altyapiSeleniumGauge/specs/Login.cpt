@@ -1,0 +1,13 @@
+Created by testinium on 11.08.2022
+
+This is a concept file with following syntax for each concept.
+# Login İşlemi
+
+* "lightingTextClose" elementinin görünür olması kontrol edilir "10"
+* "lightingTextClose" elementine tıkla
+* "girisyap" elementine tıkla
+* "eposta" elementinin görünür olması kontrol edilir "30"
+* "eposta" elementine "emreozturk0017@gmail.com" değerini yaz
+* "password" elementinin görünür olması kontrol edilir "30"
+* "password" elementine "1234567Aa" değerini yaz
+* "girisyapbuton" elementine tıkla

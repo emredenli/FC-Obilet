@@ -5,12 +5,12 @@ This is a concept file with following syntax for each concept.
 * "lightingTextClose" elementine tıkla
 * "üyeGirişiBtn" elementinin tıklanabilir olması kontrol edilir "10"
 * "üyeGirişiBtn" elementine tıkla
-* "email" elementinin tıklanabilir olması kontrol edilir "10"
-* "email" elementine tıkla
-* "email" elementine <username> değerini yaz
-* "password" elementinin tıklanabilir olması kontrol edilir "10"
-* "password" elementine tıkla
-* "password" elementine <password> değerini yaz
+* "emailInput" elementinin tıklanabilir olması kontrol edilir "10"
+* "emailInput" elementine tıkla
+* "emailInput" elementine <username> değerini yaz
+* "passwordInput" elementinin tıklanabilir olması kontrol edilir "10"
+* "passwordInput" elementine tıkla
+* "passwordInput" elementine <password> değerini yaz
 * "üyeOlBtn" elementinin tıklanabilir olması kontrol edilir "10"
 * "üyeOlBtn" elementine tıkla
 
