@@ -1,0 +1,31 @@
+Created by testinium on 10.08.2022
+
+This is a concept file with following syntax for each concept.
+# THY Bilet Al
+
+* "THYUçuş" elementinin görünür olması kontrol edilir "30"
+* "THYUçuş" scroll element
+* "THYUçuş" elementine tıkla
+* "uçuşsınıfseç" elementinin görünür olması kontrol edilir "30"
+* "uçuşsınıfseç" elementine tıkla
+* "ödemeemail" elementinin görünür olması kontrol edilir "30"
+* "ödemeemail" elementine "emreozturk0017@gmail.com" değerini yaz
+* "ödemetel" elementine "5555555555" sayı değerini yaz
+* "ödemead" elementine "Emre" değerini yaz
+* "ödemesoyad" elementine "Öztürk" değerini yaz
+* "dogumgün" elementinin görünür olması kontrol edilir "30"
+* "dogumgün" elementine tıkla
+* "dogumay" elementinin görünür olması kontrol edilir "30"
+* "dogumay" elementine tıkla
+* "dogumyıl" elementinin görünür olması kontrol edilir "30"
+* "dogumyıl" elementine tıkla
+* "ödemeTC" elementine "11111111111" sayı değerini yaz
+* "kartno" elementine "1111111111111111" sayı değerini yaz
+* "kartsonkullanma" elementine "0824" sayı değerini yaz
+* "cvc" elementine "111" sayı değerini yaz
+* "ödemebuton" elementine tıkla
+
+
+
+
+

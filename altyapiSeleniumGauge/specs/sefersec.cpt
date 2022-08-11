@@ -1,0 +1,42 @@
+Created by testinium on 10.08.2022
+
+This is a concept file with following syntax for each concept.
+# Uçak sefer arama
+
+* "2" saniye bekle
+//* "uçak2" elementinin görünür olması kontrol edilir "30"
+* "uçak2" elementine tıkla
+* "2" saniye bekle
+* "nereden" elementinin görünür olması kontrol edilir "30"
+* "nereden" elementine tıkla
+* "2" saniye bekle
+* "kalkış" elementinin görünür olması kontrol edilir "30"
+* "kalkış" elementine tıkla
+* "2" saniye bekle
+* "nereye" elementinin görünür olması kontrol edilir "30"
+* "nereye" elementine tıkla
+* "2" saniye bekle
+* "varış" elementinin görünür olması kontrol edilir "30"
+* "varış" elementine tıkla
+* "2" saniye bekle
+* "gidiş" elementinin görünür olması kontrol edilir "30"
+* "gidiş" elementine tıkla
+* "2" saniye bekle
+* "gidiştarih" elementinin görünür olması kontrol edilir "30"
+* "gidiştarih" elementine tıkla
+* "2" saniye bekle
+* "aktarmasız" elementinin görünür olması kontrol edilir "30"
+* "aktarmasız" elementine tıkla
+* "2" saniye bekle
+* "yolcu" elementinin görünür olması kontrol edilir "30"
+* "yolcu" elementine tıkla
+* "yolcusec" elementinin görünür olması kontrol edilir "30"
+* "2" saniye bekle
+* "yolcusec" elementine tıkla
+* "2" saniye bekle
+//* "yolcu" elementinin görünür olması kontrol edilir "30"
+* "2" saniye bekle
+* "yolcu" elementine tıkla
+* "2" saniye bekle
+* "seferara" elementinin görünür olması kontrol edilir "30"
+* "seferara" elementine tıkla

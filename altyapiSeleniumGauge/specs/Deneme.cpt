@@ -1,0 +1,11 @@
+Created by testinium on 1.08.2021
+
+This is a concept file with following syntax for each concept.
+# <username> username ve <password> password girilir
+* "username" elementinin görünür olması kontrol edilir
+* "password" elementinin görünür olması kontrol edilir
+* "signIn" elementinin görünür olması kontrol edilir
+* "username" elementine <username> değerini yaz
+* "password" elementine <password> değerini yaz
+* "signIn" elementinin tıklanabilir olması kontrol edilir
+* "signIn" elementine tıkla

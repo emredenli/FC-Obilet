@@ -1,0 +1,182 @@
+[
+  {
+    "key": "lightingTextClose",
+    "value": "a[href='#']",
+    "type": "css"
+  },
+  {
+    "key": "girisyap",
+    "value": ".login>a",
+    "type": "css"
+  },
+  {
+    "key": "eposta",
+    "value": "//input[@name='username']",
+    "type": "xpath"
+  },
+  {
+    "key": "password",
+    "value": "//input[@name='password']",
+    "type": "xpath"
+  },
+  {
+    "key": "girisyapbuton",
+    "value": "//button[@class='login login-button']",
+    "type": "xpath"
+  },
+  {
+    "key": "uçak",
+    "value": ".selected>a",
+    "type": "css"
+  },
+  {
+    "key": "uçak2",
+    "value": "(//a[@href='/ucak-bileti'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "nereden",
+    "value": "origin-input",
+    "type": "id"
+  },
+  {
+    "key": "kalkış",
+    "value": ".results>ul>li",
+    "type": "css"
+  },
+  {
+    "key": "nereye",
+    "value": "destination-input",
+    "type": "id"
+  },
+  {
+    "key": "varış",
+    "value": "#destination>.results>ul>li",
+    "type": "css"
+  },
+  {
+    "key": "gidiş",
+    "value": "departure-input",
+    "type": "id"
+  },
+  {
+    "key": "gidiştarih",
+    "value": "(//button/span)[24]",
+    "type": "xpath"
+  },
+  {
+    "key": "varıştarih",
+    "value": "//button[@id='return-input-placeholder']",
+    "type": "xpath"
+  },
+  {
+    "key": "varıştarih2",
+    "value": "return-input-placeholder",
+    "type": "id"
+  },
+  {
+    "key": "dönüştarih",
+    "value": "//button[@data-date='2022-09-21']",
+    "type": "xpath"
+  },
+  {
+    "key": "yolcu",
+    "value": "pax-toggle",
+    "type": "id"
+  },
+  {
+    "key": "yolcusec",
+    "value": "(//button[@data-type='student'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "aktarmasız",
+    "value": "//span[@class='checkmark' and text()='Aktarmasız']",
+    "type": "xpath"
+  },
+  {
+    "key": "tekyön",
+    "value": "one-way",
+    "type": "id"
+  },
+  {
+    "key": "seferara",
+    "value": "search-button",
+    "type": "id"
+  },
+  {
+    "key": "THYUçuş",
+    "value": "//span[@class='name notranslate' and text()='Türk Hava Yolları']",
+    "type": "xpath"
+  },
+  {
+    "key": "uçuşsınıfseç",
+    "value": ".top-green-arrow-container",
+    "type": "css"
+  },
+  {
+    "key": "ödemeemail",
+    "value": "email",
+    "type": "id"
+  },
+  {
+    "key": "ödemetel",
+    "value": "phone",
+    "type": "id"
+  },
+  {
+    "key": "ödemead",
+    "value": "first-name-1",
+    "type": "id"
+  },
+  {
+    "key": "ödemesoyad",
+    "value": "last-name-1",
+    "type": "id"
+  },
+  {
+    "key": "dogumgün",
+    "value": "(//select[@id='birth-day-1']/option)[9]",
+    "type": "xpath"
+  },
+  {
+    "key": "dogumay",
+    "value": "(//select[@id='birth-month-1']/option)[9]",
+    "type": "xpath"
+  },
+  {
+    "key": "dogumyıl",
+    "value": "(//select[@id='birth-year-1']/option)[14]",
+    "type": "xpath"
+  },
+  {
+    "key": "ödemeTC",
+    "value": "gov-id-1",
+    "type": "id"
+  },
+  {
+    "key": "kartno",
+    "value": "card-number",
+    "type": "id"
+  },
+  {
+    "key": "kartsonkullanma",
+    "value": "card-expiration",
+    "type": "id"
+  },
+  {
+    "key": "cvc",
+    "value": "card-csc",
+    "type": "id"
+  },
+  {
+    "key": "ödemebuton",
+    "value": "pay",
+    "type": "id"
+  },
+  {
+    "key": "cvc",
+    "value": "card-csc",
+    "type": "id"
+  }
+]
